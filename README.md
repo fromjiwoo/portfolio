@@ -47,7 +47,7 @@
   - 사용자 접근성 및 편의성 증대 -> 카카오톡 소셜 로그인 구현
   - 웹 프로젝트 UI/UX 디자인 및 구현 총괄
 - **기술 스택** : Spring MVC, MyBatis, Oracle, JSP, HTML/CSS/JS
-- **github** : 
+- **github** : (https://github.com/fromjiwoo/portfolio-littleforest)
 
 ---
 
@@ -61,11 +61,11 @@
   - 회원관리 관리자 페이지 개발
   - 상품 상세 페이지 구현
 - **기술 스택** : Spring MVC, MyBatis, Oracle, JSP, HTML/CSS/JS
-- **github** :
+- **github** :(https://github.com/fromjiwoo/portfolio-moodshop)
 
 ---
 
-### ✈️ YaKaza (야가자) - 여행 일정 관리 사이트
+### ✈️ YaKaza (야가자) - 여행 일정 관리 사이트 (https://github.com/fromjiwoo/portfolio-yakaja)
 - **기간** : 2025.04.15 ~ 2025.04.28 (15일)
 - **팀원** : 5명
 - **설명** : 여행 기간 선택, 지역 선택, 일정 계획, 장바구니, 결제 기능
@@ -73,7 +73,7 @@
   - 로그인/회원가입 페이지 개발
   - 
 - **기술 스택** : Spring MVC, MyBatis, Oracle, JSP, HTML/CSS/JS
-- **github** :
+- **github** :(https://github.com/fromjiwoo/portfolio-yakaja)
 
 ---
 
@@ -104,5 +104,5 @@
 ---
 
 ## 📫 Contact
-- **GitHub** : [fromwjiwoo](https://github.com/fromjiwoo)  
+- **GitHub** : [fromjiwoo](https://github.com/fromjiwoo)  
 - **Email** : choocooballl@gmail.com
