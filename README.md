@@ -71,8 +71,10 @@
 - **설명** : 여행 기간 선택, 지역 선택, 일정 계획, 장바구니, 결제 기능
 - **주요 역할** :
   - 로그인/회원가입 페이지 개발
-  - 
-- **기술 스택** : Spring MVC, MyBatis, Oracle, JSP, HTML/CSS/JS
+  - 여행일정 선택 페이지 개발
+  - 결제 완료 페이지 개발
+- **기술 스택** :
+  - Java, Swing, Oracle, JDBC
 - **github** :(https://github.com/fromjiwoo/portfolio-yakaja)
 
 ---
